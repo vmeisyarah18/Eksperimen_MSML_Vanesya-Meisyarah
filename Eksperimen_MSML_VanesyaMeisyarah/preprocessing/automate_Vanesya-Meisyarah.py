@@ -92,6 +92,6 @@ def preprocess_pipeline(path="../diabetes.csv", save_output=True):
 
 # Auto-run ketika file dieksekusi langsung
 if __name__ == "__main__":
-    X_train, X_test, y_train, y_test = preprocess_pipeline(
-        "Eksperimen_MSML_VanesyaMeisyarah/diabetes.csv")
+    X_train, X_test, y_train, y_test = preprocess_pipeline("Eksperimen_MSML_VanesyaMeisyarah/diabetes.csv")
 print("Preprocessing selesai — dataset siap digunakan!")
+
