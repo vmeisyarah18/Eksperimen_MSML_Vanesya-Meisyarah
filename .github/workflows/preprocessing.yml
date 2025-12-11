@@ -24,4 +24,4 @@ jobs:
 
       - name: Run preprocessing script
         run: |
-          python Eksperimen_MSML_Vanesya-Meisyarah/preprocessing/automate_Vanesya-Meisyarah.py
+          python Eksperimen_MSML_VanesyaMeisyarah/preprocessing/automate_Vanesya-Meisyarah.py
